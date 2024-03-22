@@ -1,0 +1,88 @@
+{
+    "title": "RISE encoding",
+    "creators": [
+        {
+            "name": "Katie Lavigne"
+        },
+        {
+            "name": "John Daniel Ragland"
+        },
+        {
+            "name": "Martin Lepage"
+        }
+    ],
+    "description": "",
+    "version": "2024-03-18T22:24:59.874867",
+    "licenses": [
+        {
+            "name": "None"
+        }
+    ],
+    "dates": [
+        {
+            "date": "2024-03-18 15:18:00",
+            "type": {
+                "value": "date created"
+            }
+        },
+        {
+            "date": "2024-03-18 22:24:59",
+            "type": {
+                "value": "date modified"
+            }
+        }
+    ],
+    "keywords": [
+        {
+            "value": "canadian-open-neuroscience-platform"
+        },
+        {
+            "value": "fMRI"
+        },
+        {
+            "value": "item-specific memory"
+        },
+        {
+            "value": "relational memory"
+        }
+    ],
+    "distributions": [
+        {
+            "size": 78.4,
+            "unit": {
+                "value": "MB"
+            },
+            "access": {
+                "landingPage": "https://osf.io/3xha6/",
+                "authorizations": [
+                    {
+                        "value": "public"
+                    }
+                ]
+            }
+        }
+    ],
+    "extraProperties": [
+        {
+            "category": "logo",
+            "values": [
+                {
+                    "value": "https://osf.io/static/img/institutions/shields/cos-shield.png"
+                }
+            ]
+        },
+        {
+            "category": "files",
+            "values": [
+                {
+                    "value": "361"
+                }
+            ]
+        }
+    ],
+    "types": [
+        {
+            "value": "unknown"
+        }
+    ]
+}
