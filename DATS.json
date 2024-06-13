@@ -1,0 +1,592 @@
+{
+  "title": "Relational and Item-Specific Encoding (RISE)",
+  "description": "This memory task starts with an encoding test in two parts: identifying if an object on screen is alive and if one object can fit inside another. Includes practice and trial phases. After there is a recognition test following the encoding test. Participants decide if images were seen before or presented together, in two parts: practice and trial.",
+  "identifier": {
+    "identifier": "https://doi.org/10.17605/OSF.IO/EKDU5",
+    "identifierSource": "DOI"
+  },
+  "creators": [
+    {
+      "abbreviation": "",
+      "fullName": "Katie M Lavigne",
+      "firstName": "Katie",
+      "middleInitial": "M",
+      "lastName": "Lavigne",
+      "email": "katie.lavigne@mcgill.ca",
+      "affiliations": [
+        {
+          "name": "McGill University"
+        },
+        {
+          "name": "Douglas Research Centre"
+        }
+      ],
+      "roles": [
+        {
+          "value": "Principal Investigator"
+        }
+      ],
+      "extraProperties": [
+        {
+          "category": "ORCID",
+          "values": [
+            {
+              "value": "https://orcid.org/0000-0002-3918-691X"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "fullName": "J Daniel Ragland",
+      "firstName": "J Daniel",
+      "middleInitial": "",
+      "lastName": "Ragland",
+      "email": "jdragland@ucdavis.edu",
+      "affiliations": [
+        {
+          "name": "University of California-Davis"
+        }
+      ],
+      "roles": [
+        {
+          "value": "Principal Investigator"
+        }
+      ],
+      "extraProperties": [
+        {
+          "category": "ORCID",
+          "values": [
+            {
+              "value": "https://orcid.org/0000-0001-5234-2414"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "types": [
+    {
+      "information": {
+        "value": "Tabular data"
+      }
+    }
+  ],
+  "version": "1.0",
+  "privacy": "open",
+  "licenses": [
+    {
+      "name": "GNU GPL 3.0"
+    }
+  ],
+  "distributions": [
+    {
+      "formats": [
+        "CSV",
+        "TEXT",
+        "PSYDAT"
+      ],
+      "size": 60.6,
+      "unit": {
+        "value": "MB"
+      },
+      "access": {
+        "landingPage": "https://gitlab.pavlovia.org/crisp/rise-encoding",
+        "authorizations": [
+          {
+            "value": "public"
+          }
+        ]
+      }
+    }
+  ],
+  "primaryPublications": [
+    {
+      "title": "Relational and Item-Specific Encoding (RISE): Task Development and Psychometric Characteristics",
+      "publicationVenue": "Schizophrenia Bulletin",
+      "authors": [
+        {
+          "fullName": "John D. Ragland",
+          "firstName": "John",
+          "middleInitial": "D.",
+          "lastName": "Ragland",
+          "affiliations": [
+            {
+              "name": "Department of Psychiatry, Imaging Research Center, University of California at Davis, Sacramento, CA"
+            }
+          ]
+        },
+        {
+          "fullName": "Charan Ranganath",
+          "firstName": "Charan",
+          "middleInitial": "",
+          "lastName": "Ranganath",
+          "affiliations": [
+            {
+              "name": "Department of Psychology, University of California at Davis, Davis, CA"
+            }
+          ]
+        },
+        {
+          "fullName": "Deanna M. Barch",
+          "firstName": "Deanna",
+          "middleInitial": "M.",
+          "lastName": "Barch",
+          "affiliations": [
+            {
+              "name": "Department of Psychiatry, Washington University, St Louis, MO"
+            }
+          ]
+        },
+        {
+          "fullName": "James M. Gold",
+          "firstName": "James",
+          "middleInitial": "M.",
+          "lastName": "Gold",
+          "affiliations": [
+            {
+              "name": "Maryland Psychiatric Research Center, University of Maryland School of Medicine, Baltimore, MD"
+            }
+          ]
+        },
+        {
+          "fullName": "Brittaney Haley",
+          "firstName": "Brittaney",
+          "middleInitial": "",
+          "lastName": "Haley",
+          "affiliations": [
+            {
+              "name": "Department of Psychiatry, Imaging Research Center, University of California at Davis, Sacramento, CA"
+            }
+          ]
+        },
+        {
+          "fullName": "Angus W. MacDonald, III",
+          "firstName": "Angus ",
+          "middleInitial": "W.",
+          "lastName": "MacDonald",
+          "affiliations": [
+            {
+              "name": "Department of Psychology, University of Minnesota, Minneapolis, MN"
+            }
+          ]
+        },
+        {
+          "fullName": "Steven M. Silverstein",
+          "firstName": "Steven ",
+          "middleInitial": "M.",
+          "lastName": "Silverstein",
+          "affiliations": [
+            {
+              "name": "Department of Psychiatry, Robert Wood Johnson Medical School, University of Medicine and Dentistry of New Jersey, Piscataway, NJ"
+            }
+          ]
+        },
+        {
+          "fullName": "Milton E. Strauss",
+          "firstName": "Milton ",
+          "middleInitial": "E.",
+          "lastName": "Strauss",
+          "affiliations": [
+            {
+              "name": "Department of Psychology, Case Western Reserve, Cleveland, OH"
+            }
+          ]
+        },
+        {
+          "fullName": "Andrew P. Yonelinas",
+          "firstName": "Andrew ",
+          "middleInitial": "P.",
+          "lastName": "Yonelinas",
+          "affiliations": [
+            {
+              "name": "Department of Psychology, University of California at Davis, Davis, CA"
+            }
+          ]
+        },
+        {
+          "fullName": "Cameron S. Carter",
+          "firstName": "Cameron ",
+          "middleInitial": "S.",
+          "lastName": "Carter",
+          "affiliations": [
+            {
+              "name": "Department of Psychiatry, Imaging Research Center, University of California at Davis, Sacramento, CA"
+            }
+          ]
+        }
+      ],
+      "dates": [
+        {
+          "date": "2011-11-28 00:00:00",
+          "description": "",
+          "type": {
+            "value": "published"
+          }
+        }
+      ],
+      "identifier": {
+        "identifier": "https://doi.org/10.1093/schbul/sbr146",
+        "identifierSource": "DOI"
+      }
+    },
+    {
+      "title": "Functional and Neuroanatomic Specificity of Episodic Memory Dysfunction in Schizophrenia: A Functional Magnetic Resonance Imaging Study of the Relational and Item-Specific Encoding Task",
+      "publicationVenue": "JAMA Psychiatry",
+      "authors": [
+        {
+          "fullName": "John D. Ragland",
+          "firstName": "John ",
+          "middleInitial": "D.",
+          "lastName": "Ragland",
+          "affiliations": [
+            {
+              "name": "Department of Psychiatry, University of California, Davis, Sacramento"
+            }
+          ]
+        },
+        {
+          "fullName": "Charan Ranganath",
+          "firstName": "Charan ",
+          "middleInitial": "",
+          "lastName": "Ranganath",
+          "affiliations": [
+            {
+              "name": "Department of Psychology, University of California, Davis, Sacramento"
+            }
+          ]
+        },
+        {
+          "fullName": "Michael P. Harms",
+          "firstName": "Michael ",
+          "middleInitial": "P.",
+          "lastName": "Harms",
+          "affiliations": [
+            {
+              "name": "Department of Psychiatry, School of Medicine, Washington University, St Louis, Missouri"
+            }
+          ]
+        },
+        {
+          "fullName": "Deanna M. Barch",
+          "firstName": "Deanna ",
+          "middleInitial": "M.",
+          "lastName": "Barch",
+          "affiliations": [
+            {
+              "name": "Department of Psychiatry, School of Medicine, Washington University, St Louis, Missouri"
+            }
+          ]
+        },
+        {
+          "fullName": "James M. Gold",
+          "firstName": "James ",
+          "middleInitial": "M.",
+          "lastName": "Gold",
+          "affiliations": [
+            {
+              "name": "Maryland Psychiatric Research Center, University of Maryland, Baltimore"
+            }
+          ]
+        },
+        {
+          "fullName": "Evan Layher",
+          "firstName": "Evan ",
+          "middleInitial": "",
+          "lastName": "Layher",
+          "affiliations": [
+            {
+              "name": "Department of Psychiatry, University of California, Davis, Sacramento"
+            }
+          ]
+        },
+        {
+          "fullName": "Tyler A. Lesh",
+          "firstName": "Tyler ",
+          "middleInitial": "A.",
+          "lastName": "Lesh",
+          "affiliations": [
+            {
+              "name": "Department of Psychiatry, University of California, Davis, Sacramento"
+            }
+          ]
+        },
+        {
+          "fullName": "Angus W. MacDonald, III",
+          "firstName": "Angus",
+          "middleInitial": "W.",
+          "lastName": "MacDonald",
+          "affiliations": [
+            {
+              "name": "Department of Psychology, University of Minnesota, Minneapolis"
+            }
+          ]
+        },
+        {
+          "fullName": "Tara A. Niendam",
+          "firstName": "Tara ",
+          "middleInitial": "A.",
+          "lastName": "Niendam",
+          "affiliations": [
+            {
+              "name": "Department of Psychiatry, University of California, Davis, Sacramento"
+            }
+          ]
+        },
+        {
+          "fullName": "Joshua Phillips",
+          "firstName": "Joshua ",
+          "middleInitial": "",
+          "lastName": "Phillips",
+          "affiliations": [
+            {
+              "name": "Department of Psychiatry, University of California, Davis, Sacramento"
+            }
+          ]
+        },
+        {
+          "fullName": "Steven M. Silverstein",
+          "firstName": "Steven ",
+          "middleInitial": "M.",
+          "lastName": "Silverstein",
+          "affiliations": [
+            {
+              "name": "Department of Psychiatry, Rutgers University, New Brunswick, New Jersey"
+            }
+          ]
+        },
+        {
+          "fullName": "Andrew P. Yonelinas",
+          "firstName": "Andrew ",
+          "middleInitial": "P.",
+          "lastName": "Yonelinas",
+          "affiliations": [
+            {
+              "name": "Department of Psychology, University of California, Davis, Sacramento"
+            }
+          ]
+        },
+        {
+          "fullName": "Cameron S. Carter",
+          "firstName": "Cameron ",
+          "middleInitial": "S.",
+          "lastName": "Carter",
+          "affiliations": [
+            {
+              "name": "Department of Psychiatry, University of California, Davis, Sacramento"
+            },
+            {
+              "name": "Department of Psychology, University of California, Davis, Sacramento"
+            }
+          ]
+        }
+      ],
+      "dates": [
+        {
+          "date": "2015-07-22 00:00:00",
+          "description": "",
+          "type": {
+            "value": "published online"
+          }
+        }
+      ],
+      "identifier": {
+        "identifier": "https://doi:10.1001/jamapsychiatry.2015.0276",
+        "identifierSource": "DOI"
+      }
+    }
+  ],
+  "isAbout": [
+    {
+      "name": "Homo sapiens",
+      "identifier": {
+        "identifier": "https://www.ncbi.nlm.nih.gov/taxonomy/9606",
+        "identifierSource": "NCBI Taxonomy Database"
+      }
+    }
+  ],
+  "acknowledges": [
+    {
+      "name": "Grants",
+      "funders": [
+        {
+          "name": "",
+          "abbreviation": ""
+        }
+      ]
+    }
+  ],
+  "keywords": [
+    {
+      "value": "memory"
+    },
+    {
+      "value": "relational"
+    },
+    {
+      "value": "item-specific"
+    }
+  ],
+  "extraProperties": [
+    {
+      "category": "subjects",
+      "values": [
+        {
+          "value": "N/A"
+        }
+      ]
+    },
+    {
+      "category": "files",
+      "values": [
+        {
+          "value": "765"
+        }
+      ]
+    },
+    {
+      "category": "CONP_status",
+      "values": [
+        {
+          "value": "Canadian"
+        }
+      ]
+    },
+    {
+      "category": "origin_institution",
+      "values": [
+        {
+          "value": "Douglas Research Centre"
+        }
+      ]
+    },
+    {
+      "category": "origin_city",
+      "values": [
+        {
+          "value": "Montreal"
+        }
+      ]
+    },
+    {
+      "category": "origin_province",
+      "values": [
+        {
+          "value": "QC"
+        }
+      ]
+    },
+    {
+      "category": "origin_country",
+      "values": [
+        {
+          "value": "Canada"
+        }
+      ]
+    },
+    {
+      "category": "contact",
+      "values": [
+        {
+          "value": "Katie M Lavigne, katie.lavigne@mcgill.ca"
+        }
+      ]
+    },
+    {
+      "category": "derivedFrom",
+      "values": [
+        {
+          "value": "Relational and Item-Specific Encoding (RISE) Task"
+        }
+      ]
+    },
+    {
+      "category": "parent_dataset_id",
+      "values": [
+        {
+          "value": "https://doi.org/10.1093/schbul/sbr146"
+        }
+      ]
+    },
+    {
+      "category": "experimentFunctionAssessed",
+      "values": [
+        {
+          "value": "Cognitive"
+        }
+      ]
+    },
+    {
+      "category": "experimentLanguages",
+      "values": [
+        {
+          "value": "English"
+        },
+        {
+          "value": "French"
+        }
+      ]
+    },
+    {
+      "category": "experimentAccessibility",
+      "values": [
+        {
+          "value": "Hearing impairment"
+        }
+      ]
+    },
+    {
+      "category": "experimentModalities",
+      "values": [
+        {
+          "value": "fMRI"
+        }
+      ]
+    },
+    {
+      "category": "experimentRequiredDevices",
+      "values": [
+        {
+          "value": "Computer"
+        },
+        {
+          "value": "Laptop"
+        }
+      ]
+    },
+    {
+      "category": "experimentRequiredSoftware",
+      "values": [
+        {
+          "value": "PsychoPy  version 2023.1.3"
+        }
+      ]
+    },
+    {
+      "category": "experimentStimuli",
+      "values": [
+        {
+          "value": "Image"
+        }
+      ]
+    },
+    {
+      "category": "experimentAdditionalRequirements",
+      "values": [
+        {
+          "value": [
+            "mouse/keyboard required (practice); 2-button response box (fMRI)"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "REB_statement",
+      "values": [
+        {
+          "value": "In submitting this dataset for inclusion, I declare that these data are not derived from human participants."
+        }
+      ]
+    }
+  ]
+}
