@@ -18,3 +18,4 @@
 .conp-osf-crawler.json annex.largefiles=nothing
 **/DATS.json annex.largefiles=nothing
 **/README* annex.largefiles=nothing
+**/LICENSE* annex.largefiles=nothing
